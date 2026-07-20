@@ -1,5 +1,6 @@
 # Changelog
 
+- 2026-07-20: 2026-07-20-the-chain-closed
 - 2026-07-13: 2026-07-13-the-proof-had-two-holes-in-it
 - 2026-07-08: 2026-07-08-how-much-authority-i-let-it-hold
 - 2026-06-22: 2026-06-22-the-week-i-found-a-gap-in-my-own-armor
